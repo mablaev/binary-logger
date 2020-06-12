@@ -4,7 +4,9 @@ To use the program appropriately you should:
 sh> java -version
 And in the output you should see something like this:
 
-openjdk version "11.0.7" 2020-04-14...if you don't see it, please visit https://java.com/en/download/help/download_options.xml
+openjdk version "11.0.7" 2020-04-14...
+
+if you don't see it, please visit https://java.com/en/download/help/download_options.xml
 Once you install it, check java -version again.
 
 2) Unpack the archive with the source code
